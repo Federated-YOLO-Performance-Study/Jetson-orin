@@ -1,0 +1,33 @@
+
+image 1/28 /app/Datasets/wGrape/test/images/IMG_2134.jpg: 480x640 (no detections), 302.8ms
+image 2/28 /app/Datasets/wGrape/test/images/IMG_2145.jpg: 480x640 (no detections), 50.1ms
+image 3/28 /app/Datasets/wGrape/test/images/IMG_2188.jpg: 480x640 (no detections), 36.0ms
+image 4/28 /app/Datasets/wGrape/test/images/IMG_2554.jpg: 480x640 5 0s, 36.1ms
+image 5/28 /app/Datasets/wGrape/test/images/IMG_2561.jpg: 480x640 3 0s, 35.9ms
+image 6/28 /app/Datasets/wGrape/test/images/IMG_2568.jpg: 480x640 5 0s, 36.1ms
+image 7/28 /app/Datasets/wGrape/test/images/IMG_2570.jpg: 480x640 7 0s, 35.9ms
+image 8/28 /app/Datasets/wGrape/test/images/IMG_2592.jpg: 480x640 2 0s, 36.2ms
+image 9/28 /app/Datasets/wGrape/test/images/IMG_2900.jpg: 480x640 6 0s, 36.0ms
+image 10/28 /app/Datasets/wGrape/test/images/_DSC8830.jpg: 448x640 (no detections), 303.6ms
+image 11/28 /app/Datasets/wGrape/test/images/_DSC8856.jpg: 448x640 (no detections), 35.7ms
+image 12/28 /app/Datasets/wGrape/test/images/_DSC8864.jpg: 448x640 (no detections), 35.6ms
+image 13/28 /app/Datasets/wGrape/test/images/_DSC8870.jpg: 448x640 (no detections), 35.7ms
+image 14/28 /app/Datasets/wGrape/test/images/_DSC8890.jpg: 448x640 2 0s, 35.6ms
+image 15/28 /app/Datasets/wGrape/test/images/_DSC8903.jpg: 448x640 (no detections), 35.7ms
+image 16/28 /app/Datasets/wGrape/test/images/_DSC8914.jpg: 448x640 2 0s, 35.7ms
+image 17/28 /app/Datasets/wGrape/test/images/_DSC8925.jpg: 448x640 1 0, 35.7ms
+image 18/28 /app/Datasets/wGrape/test/images/_DSC8959.jpg: 448x640 (no detections), 35.7ms
+image 19/28 /app/Datasets/wGrape/test/images/_DSC8968.jpg: 448x640 4 0s, 35.6ms
+image 20/28 /app/Datasets/wGrape/test/images/_DSC8969.jpg: 448x640 1 0, 35.7ms
+image 21/28 /app/Datasets/wGrape/test/images/_DSC8983.jpg: 448x640 (no detections), 35.8ms
+image 22/28 /app/Datasets/wGrape/test/images/_DSC9130.jpg: 448x640 (no detections), 35.7ms
+image 23/28 /app/Datasets/wGrape/test/images/_DSC9187.jpg: 448x640 (no detections), 35.8ms
+image 24/28 /app/Datasets/wGrape/test/images/_DSC9304.JPG: 448x640 2 0s, 35.7ms
+image 25/28 /app/Datasets/wGrape/test/images/_DSC9305.JPG: 448x640 2 0s, 35.5ms
+image 26/28 /app/Datasets/wGrape/test/images/_DSC9312.JPG: 448x640 1 0, 35.7ms
+image 27/28 /app/Datasets/wGrape/test/images/_DSC9325.JPG: 448x640 5 0s, 35.6ms
+image 28/28 /app/Datasets/wGrape/test/images/_DSC9340.jpg: 448x640 8 0s, 35.6ms
+Speed: 7.5ms preprocess, 55.4ms inference, 3.6ms postprocess per image at shape (1, 3, 448, 640)
+Results saved to [1m/ultralytics/runs/detect/predict[0m
+Inference done. Results saved to inference_benchmark_results.csv
+Tegrastats log saved to tegrastats_results.txt
