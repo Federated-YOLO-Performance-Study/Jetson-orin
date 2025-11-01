@@ -25,7 +25,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v6
         with:
-          context: ./dataset4-Grapes
+          context: ./dataset4-Grapes/cuda/predict/experiment1/setup
           file: ./dataset4-Grapes/cuda/predict/experiment1/setup/Dockerfile
 
           push: true
